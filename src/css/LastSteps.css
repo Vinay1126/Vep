@@ -1,0 +1,48 @@
+.limg1 {
+    /* left: 460px; */
+    top: 30px;
+}
+
+.limg2 {
+    width: 485px;
+}
+
+.lBody {
+    position: relative;
+    display: inline;
+    height: 100%;
+    top: 30px;
+    width: 100%;
+}
+
+.leftCont {
+    position: relative;
+    top: 50px;
+}
+
+.midl {
+    top: 350px;
+}
+
+.lrightcont {
+
+    position: absolute;
+    left: 800px;
+    width: 480px;
+    top: 140px;
+
+}
+
+.larrow {
+    top: 245px;
+}
+
+.Uimg2 {
+    width: 485px;
+    height: 257px;
+}
+
+.Umidtxt {
+    padding: 0 15px 0 20px;
+    height: 34px;
+}

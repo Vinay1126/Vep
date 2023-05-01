@@ -1,0 +1,87 @@
+.dataTable {
+    position: relative;
+    top: 180px;
+    left: 40px;
+    height: 300px;
+    width: 980px;
+    cursor: pointer;
+    /* text-align: center; */
+    /* border-spacing: 0 45px; */
+
+}
+
+.actBar {
+    height: 585px;
+    width: 100px;
+    box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.05);
+    /* position: absolute;
+        display: flex; */
+}
+
+.incGap {
+    width: 180px;
+}
+
+.headerText {
+    display: flex;
+    width: 960px;
+    position: absolute;
+    top: 110px;
+    left: 290px;
+    color: #787878;
+}
+
+.topText {
+    color: #787878;
+    position: relative;
+    top: 43px;
+    left: 60px;
+    height: 20px;
+}
+
+.textSize {
+    font-size: medium;
+}
+
+.actshow {
+    display: flex;
+}
+
+.textGap1 {
+    margin-left: 300px;
+    /* margin-left: 120px; */
+}
+
+.textGap2 {
+    margin-left: 130px;
+    /* margin-left: 120px; */
+}
+
+.textGap3 {
+    margin-left: 110px;
+    /* margin-left: 120px; */
+}
+
+.tableImg {
+
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 340px;
+    overflow: auto;
+}
+
+.rowGap {
+    width: 100%;
+    max-width: 100%;
+    /* margin: 10px 0 10px 0; */
+    font-size: 18px;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}

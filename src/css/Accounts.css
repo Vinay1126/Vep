@@ -1,0 +1,142 @@
+.accountBody {
+    display: flex;
+}
+
+.leftBar {
+    height: 900px;
+    width: 100px;
+    box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.05);
+}
+
+.accBar {
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    display: grid;
+    /* height: 585px; */
+    /* width: 180px; */
+    /* box-shadow: 8px 0px 16px rgba(0, 0, 0, 0.05); */
+}
+
+.topBarDet {
+    margin-left: 20px;
+}
+
+.nestBar {
+    position: absolute;
+    display: flex;
+    width: 16px;
+    height: 15px;
+}
+
+.dataBar {
+    width: 200px;
+    font-size: 15px;
+}
+
+.marginShift {
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+
+.divFill {
+    position: absolute;
+    width: 226px;
+    height: 48px;
+    left: px;
+    top: 183px;
+
+    background: rgba(219, 211, 235, 0.5);
+    border-radius: 16px;
+}
+
+.topShift {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.rightBar {
+    position: relative;
+    top: 13px;
+    left: 20px;
+    cursor: pointer;
+    /* width: 40px;
+    height: 60px; */
+}
+
+.botBarDet {
+    /* width: 100px; */
+    position: relative;
+    display: flex;
+    /* top: 40px; */
+    margin-top: 40px;
+    margin-left: 20px;
+    /* width: 200px; */
+    font-size: 15px;
+}
+
+.rightLine {
+    position: absolute;
+    width: 560px;
+    height: 0px;
+    left: -30px;
+    top: 310px;
+
+    border: 1px solid #DADADA;
+    transform: rotate(-90deg);
+
+}
+
+.rightSide {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 500px;
+
+}
+
+.block1 {
+    position: relative;
+    margin-bottom: 18px;
+    /* width: 100; */
+}
+
+.block2 {
+    position: relative;
+    margin-top: 25px;
+    margin-bottom: -4px;
+}
+
+.tab1 {
+    width: 580px;
+    height: 235px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+}
+
+.tab2 {
+    width: 580px;
+    height: 185px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    position: relative;
+    margin-top: 34px;
+}
+
+.tab3 {
+    width: 580px;
+    height: 245px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.intab {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+}

@@ -1,0 +1,21 @@
+.Scont {
+    position: relative;
+    width: 100%;
+    top: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+.simg {
+    width: 267px;
+    height: 315px;
+}
+
+.inlimg {
+    margin-right: 20px;
+}
+
+.sfoot {
+    margin-left: 9 0px;
+    margin-bottom: 140px;
+}

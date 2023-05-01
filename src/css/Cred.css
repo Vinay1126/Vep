@@ -1,0 +1,48 @@
+.credImg {
+    height: 310px;
+    width: 450px;
+}
+
+.cred1 {
+    position: absolute;
+    /* text-align: center; */
+    left: 120px;
+}
+
+.credIcn1 {
+    top: 47%;
+}
+
+.credIcn3 {
+    left: 12%;
+    top: 45.6%;
+    color: #787878;
+}
+
+.credIcn2 {
+    top: 61.7%;
+}
+
+.credIcn5 {
+    left: 12%;
+    top: 60%;
+    color: #787878;
+}
+
+.credIcn7 {
+    top: 76%;
+}
+
+.credIcn6 {
+    left: 70%;
+}
+
+.credIcn8 {
+    left: 12%;
+    top: 75%;
+    color: #787878;
+}
+
+.credIcn9 {
+    top: 90%;
+}

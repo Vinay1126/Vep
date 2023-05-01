@@ -1,0 +1,118 @@
+.bdet1 {
+    margin: 0;
+    height: 100%;
+    /* width: 50%; */
+    position: relative;
+}
+
+.col1 {
+    top: 5px;
+    color: #787878;
+}
+
+.midline {
+    top: 430px;
+    left: 480px;
+}
+
+button:disabled,
+button[disabled] {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}
+
+.leftdet {
+    position: absolute;
+    left: 150px;
+    top: 25px;
+    width: 500px;
+}
+
+.rightdet {
+    position: absolute;
+    left: 800px;
+    top: 150px;
+    /* width: 500px; */
+}
+
+.rightgap {
+    padding-top: 30px;
+}
+
+.img1 {
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    cursor: pointer;
+}
+
+.check1 {
+    border-color: #F2F2F2;
+    height: 48px;
+    padding-top: 10px;
+    padding-left: 15px;
+    background: #F2F2F2;
+    width: 180px;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.check2 {
+    left: 200px;
+}
+
+.choose {
+    display: inline;
+}
+
+.leftgap {
+    margin-left: 15px;
+    color: #787878;
+}
+
+input[type=radio]#Black {
+    accent-color: Black;
+}
+
+.check3 {
+    padding-left: 15px;
+    padding-top: 0;
+    padding-right: 10px;
+    width: 350px;
+}
+
+.detFooter {
+    position: absolute;
+    /* display: inline; */
+    width: 800px;
+    /* margin-left: 170px; */
+}
+
+.foot1 {
+    position: absolute;
+}
+
+.foot2 {
+    left: 25px;
+}
+
+.foot3 {
+    left: 650px;
+}
+
+.footimg {
+    top: 15px;
+    left: 350px;
+    cursor: pointer;
+}
+
+.datediv {
+    margin-left: 193px;
+    border-color: #F2F2F2;
+    position: relative;
+    background: #F2F2F2;
+    width: 150px;
+    border-width: 0;
+
+} 

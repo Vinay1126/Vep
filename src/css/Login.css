@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+}
+
+.Log {
+    position: relative;
+    display: inline;
+    height: 400px;
+    top: 70px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.lin1 {
+    position: absolute;
+    width: 416px;
+    height: 0px;
+    left: 444px;
+    top: 256px;
+
+    border: 2px solid #F2F2F2;
+    transform: rotate(90deg);
+}
+
+.fig {
+    display: inline;
+    margin: 0;
+}
+
+.icn {
+    position: absolute;
+    left: 5%;
+    right: 10%;
+    bottom: 15%;
+    cursor: pointer;
+}
+
+.icn3 {
+    left: 12%;
+    top: 39.6%;
+    color: #787878;
+}
+
+.icn4 {
+    left: 12%;
+    top: 53.6%;
+    color: #787878;
+}
+
+.formDiv {
+    /* display: inline; */
+    /* position: relative; */
+    width: 380px;
+    height: 42px;
+    background: #F2F2F2;
+    border-radius: 15px;
+    color: #787878;
+}
+
+.div2 {
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 18px;
+
+}
+
+.gap {
+    margin-left: 5px;
+}
+
+.div3 {
+    margin-left: 23px;
+    border-color: #F2F2F2;
+    position: absolute;
+    background: #F2F2F2;
+    width: 310px;
+    border-width: 0;
+}
+
+.div5 {
+    margin-left: 5px;
+    width: 200px;
+}
+
+.div4 {
+    margin-left: 290px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.icn5 {
+    left: 70%;
+}
+
+.icn1 {
+    top: 41%;
+}
+
+.icn6 {
+    top: 77.5%;
+}
+
+.icn2 {
+    top: 54.7%;
+}
+
+.log1 {
+
+    position: absolute;
+    /* text-align: center; */
+    left: 120px;
+}
+
+.btn1 {
+    width: 380px;
+    height: 42px;
+    background: #BF13BF;
+    border-radius: 15px;
+    border-color: #BF13BF;
+    color: white;
+}
+
+.bar {
+    width: 380px;
+    height: 42px;
+    background: #F2F2F2;
+    border-radius: 15px;
+    color: #787878;
+}
+
+.sigUp {
+    margin-left: 80px;
+}
+
+.log2 {
+
+    position: absolute;
+    /* text-align: center; */
+    left: 800px;
+    width: 480px;
+
+}
+
+.leftImg {
+    height: 310px;
+    width: 410px;
+}

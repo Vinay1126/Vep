@@ -1,0 +1,35 @@
+.topRight {
+    position: relative;
+    width: 215px;
+    height: 20px;
+    left: 820px;
+    top: 55px;
+}
+
+.infoTable {
+    position: absolute;
+    top: 150px;
+    left: 220px;
+    width: 980px;
+    height: 380px;
+}
+
+.upGap {
+    margin-top: 20px;
+}
+
+.infoGap {
+    text-align: center;
+}
+
+.amtMove {
+    margin-left: 50px;
+}
+
+.leftShift {
+    margin-left: 20px;
+}
+
+.rightShift {
+    margin-left: 530px;
+}
